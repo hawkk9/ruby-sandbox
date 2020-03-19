@@ -1,5 +1,10 @@
 # ruby-sandbox
 
+```
+❯ ruby -v
+ruby 2.6.2p47 (2019-03-13 revision 67232) [x86_64-darwin18]
+```
+
 ## Example
 
 ```ruby
